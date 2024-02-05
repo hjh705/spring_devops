@@ -1,0 +1,3 @@
+[submodule "wallets"]
+	path = wallets
+	url = https://hjh705@github.com/hjh705/spring_devops_wallets.git
